@@ -1,0 +1,9 @@
+# MindOS auto-generated
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+*.sync-conflict
+node_modules/
+.obsidian/
