@@ -1,0 +1,326 @@
+{
+  "version": 1,
+  "events": [
+    {
+      "id": "mnhq8fb7-pnllb2",
+      "ts": "2026-04-02T17:06:31.933Z",
+      "tool": "mindos_append_to_file",
+      "params": {
+        "path": "📝 笔记/收件箱/📝 机器人项目架构与推进基线 2026-03-31.md"
+      },
+      "result": "ok",
+      "message": "Appended 598 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnhowahl-3ki08k",
+      "ts": "2026-04-02T16:29:06.195Z",
+      "tool": "mindos_append_to_file",
+      "params": {
+        "path": "📝 笔记/收件箱/📝 机器人项目架构与推进基线 2026-03-31.md"
+      },
+      "result": "ok",
+      "message": "Appended 286 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnhoexqq-fkml6o",
+      "ts": "2026-04-02T16:15:36.523Z",
+      "tool": "mindos_append_to_file",
+      "params": {
+        "path": "📝 笔记/收件箱/📝 机器人项目架构与推进基线 2026-03-31.md"
+      },
+      "result": "ok",
+      "message": "Appended 582 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnho3aue-ranfxh",
+      "ts": "2026-04-02T16:06:33.633Z",
+      "tool": "mindos_read_file",
+      "params": {
+        "path": "📝 笔记/收件箱/📝 机器人项目架构与推进基线 2026-03-31.md"
+      },
+      "result": "ok",
+      "message": "2683 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnho3atv-3mbm8f",
+      "ts": "2026-04-02T16:06:33.613Z",
+      "tool": "mindos_read_file",
+      "params": {
+        "path": "📝 笔记/INSTRUCTION.md"
+      },
+      "result": "ok",
+      "message": "527 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnho3alu-35tc43",
+      "ts": "2026-04-02T16:06:33.326Z",
+      "tool": "mindos_read_file",
+      "params": {
+        "path": "🚀 项目/README.md"
+      },
+      "result": "ok",
+      "message": "232 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnho3alk-qwln6e",
+      "ts": "2026-04-02T16:06:33.312Z",
+      "tool": "mindos_read_file",
+      "params": {
+        "path": "🚀 项目/INSTRUCTION.md"
+      },
+      "result": "ok",
+      "message": "474 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnho31xe-31rbkh",
+      "ts": "2026-04-02T16:06:22.076Z",
+      "tool": "mindos_search_notes",
+      "params": {
+        "query": "ROS2 机器人 导航 控制 项目 推进",
+        "limit": 20
+      },
+      "result": "ok",
+      "message": "Search completed",
+      "op": "append"
+    },
+    {
+      "id": "mnho31ps-298r7n",
+      "ts": "2026-04-02T16:06:21.800Z",
+      "tool": "mindos_list_spaces",
+      "params": {
+        "response_format": "markdown"
+      },
+      "result": "ok",
+      "message": "6 spaces",
+      "op": "append"
+    },
+    {
+      "id": "mnho2r5d-ocu8rg",
+      "ts": "2026-04-02T16:06:08.102Z",
+      "tool": "mindos_search_notes",
+      "params": {
+        "query": "机器人 bringup 推进计划 控制 导航 描述 安全链路",
+        "limit": 10
+      },
+      "result": "ok",
+      "message": "Search completed",
+      "op": "append"
+    },
+    {
+      "id": "mnhmepo8-ykq8a3",
+      "ts": "2026-04-02T15:19:26.834Z",
+      "tool": "mindos_search_notes",
+      "params": {
+        "query": "雷达跟随 跟随控制层 /scan /cmd_vel 状态机 仲裁",
+        "limit": 20
+      },
+      "result": "ok",
+      "message": "Search completed",
+      "op": "append"
+    },
+    {
+      "id": "mnhmepnn-30tqy1",
+      "ts": "2026-04-02T15:19:26.812Z",
+      "tool": "mindos_read_file",
+      "params": {
+        "path": "📝 笔记/收件箱/📝 机器人项目架构与推进基线 2026-03-31.md"
+      },
+      "result": "ok",
+      "message": "2683 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnhmea69-zwmes3",
+      "ts": "2026-04-02T15:19:06.747Z",
+      "tool": "mindos_search_notes",
+      "params": {
+        "query": "SLAM 导航 建图 WebSocket 地图 摄像头 语音 控制 页面",
+        "limit": 20
+      },
+      "result": "ok",
+      "message": "Search completed",
+      "op": "append"
+    },
+    {
+      "id": "mnhmea5k-owgwxw",
+      "ts": "2026-04-02T15:19:06.723Z",
+      "tool": "mindos_list_files",
+      "params": {
+        "response_format": "markdown"
+      },
+      "result": "ok",
+      "message": "1232 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnhmea55-ufp7hw",
+      "ts": "2026-04-02T15:19:06.704Z",
+      "tool": "mindos_search_notes",
+      "params": {
+        "query": "机器人 OR ROS OR 底盘 OR 雷达 OR orangepi OR jie_deamon OR my_robot",
+        "limit": 20
+      },
+      "result": "ok",
+      "message": "Search completed",
+      "op": "append"
+    },
+    {
+      "id": "mnhme2fg-tnitvp",
+      "ts": "2026-04-02T15:18:56.708Z",
+      "tool": "mindos_search_notes",
+      "params": {
+        "query": "计划 roadmap next step 下一步 改造",
+        "limit": 20
+      },
+      "result": "ok",
+      "message": "Search completed",
+      "op": "append"
+    },
+    {
+      "id": "mnhme2a5-fduxnb",
+      "ts": "2026-04-02T15:18:56.516Z",
+      "tool": "mindos_search_notes",
+      "params": {
+        "query": "推进计划",
+        "limit": 10
+      },
+      "result": "ok",
+      "message": "Search completed",
+      "op": "append"
+    },
+    {
+      "id": "mnhme299-zlw2ze",
+      "ts": "2026-04-02T15:18:56.475Z",
+      "tool": "mindos_list_spaces",
+      "params": {
+        "response_format": "markdown"
+      },
+      "result": "ok",
+      "message": "6 spaces",
+      "op": "append"
+    },
+    {
+      "id": "mnesvq8x-ex037m",
+      "ts": "2026-03-31T15:57:19.898Z",
+      "tool": "mindos_create_file",
+      "params": {
+        "path": "📝 笔记/收件箱/📝 机器人项目架构与推进基线 2026-03-31.md"
+      },
+      "result": "ok",
+      "message": "Created 2683 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnesujeb-sge3bt",
+      "ts": "2026-03-31T15:56:24.368Z",
+      "tool": "mindos_read_file",
+      "params": {
+        "path": "📝 笔记/收件箱/README.md"
+      },
+      "result": "ok",
+      "message": "90 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnesuje4-zxkw92",
+      "ts": "2026-03-31T15:56:24.360Z",
+      "tool": "mindos_read_file",
+      "params": {
+        "path": "📝 笔记/README.md"
+      },
+      "result": "ok",
+      "message": "352 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnesuj66-k2zkx8",
+      "ts": "2026-03-31T15:56:24.075Z",
+      "tool": "mindos_read_file",
+      "params": {
+        "path": "📝 笔记/INSTRUCTION.md"
+      },
+      "result": "ok",
+      "message": "527 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnesu1n5-i2rs61",
+      "ts": "2026-03-31T15:56:01.355Z",
+      "tool": "mindos_read_file",
+      "params": {
+        "path": "🚀 项目/科研/README.md"
+      },
+      "result": "ok",
+      "message": "155 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnesu1mi-i1t5ep",
+      "ts": "2026-03-31T15:56:01.333Z",
+      "tool": "mindos_read_file",
+      "params": {
+        "path": "🚀 项目/README.md"
+      },
+      "result": "ok",
+      "message": "232 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnesu1m1-kukkal",
+      "ts": "2026-03-31T15:56:01.310Z",
+      "tool": "mindos_read_file",
+      "params": {
+        "path": "🚀 项目/INSTRUCTION.md"
+      },
+      "result": "ok",
+      "message": "474 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnestoyz-rp59a5",
+      "ts": "2026-03-31T15:55:44.932Z",
+      "tool": "mindos_search_notes",
+      "params": {
+        "query": "机器人 ROS2 小车 雷达 跟随 导航 香橙派",
+        "limit": 20
+      },
+      "result": "ok",
+      "message": "Search completed",
+      "op": "append"
+    },
+    {
+      "id": "mnestoxw-i7ttms",
+      "ts": "2026-03-31T15:55:44.889Z",
+      "tool": "mindos_list_files",
+      "params": {
+        "response_format": "markdown"
+      },
+      "result": "ok",
+      "message": "1124 chars",
+      "op": "append"
+    },
+    {
+      "id": "mnestox7-w924fk",
+      "ts": "2026-03-31T15:55:44.857Z",
+      "tool": "mindos_list_spaces",
+      "params": {
+        "response_format": "markdown"
+      },
+      "result": "ok",
+      "message": "6 spaces",
+      "op": "append"
+    }
+  ],
+  "legacy": {
+    "mdImportedCount": 0,
+    "jsonlImportedCount": 0,
+    "lastImportedAt": null
+  }
+}
