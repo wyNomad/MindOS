@@ -2,6 +2,17 @@
   "version": 1,
   "events": [
     {
+      "id": "msivcrf6-1h5cdj",
+      "ts": "2026-08-07T11:36:10.186Z",
+      "tool": "mindos_append_to_file",
+      "params": {
+        "path": "/home/wyi/桌面/实习项目学习/tmp.md"
+      },
+      "result": "error",
+      "message": "Error: ENOENT: no such file or directory, open '/home/wyi/MindOS/home/wyi/桌面/实习项目学习/tmp.md'",
+      "op": "append"
+    },
+    {
       "id": "mo01frpv-gdd7o6",
       "ts": "2026-04-15T12:40:01.552Z",
       "tool": "mindos_read_file",
