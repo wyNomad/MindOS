@@ -7,3 +7,7 @@ Thumbs.db
 *.sync-conflict
 node_modules/
 .obsidian/
+
+# MindOS system files (auto-added)
+INSTRUCTION.md
+.mindos/db/
